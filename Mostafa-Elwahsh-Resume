@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mostafa Nabil Elwahsh - CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        .contact-info, .skills, .personal-info {
+            margin-bottom: 10px;
+        }
+        .section-title {
+            font-weight: bold;
+            font-size: 1.2em;
+            margin-bottom: 10px;
+            text-decoration: underline;
+        }
+        .sub-section-title {
+            font-weight: bold;
+            margin-top: 10px;
+        }
+        ul {
+            list-style-type: square;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mostafa Nabil Elwahsh</h1>
+        <p>📍 15 May City, Cairo, Egypt | 📞 +20 1144910623 | 📧 mostafanabil447@gmail.com | <a href="#">LinkedIn Profile</a></p>
+    </header>
+
+    <section>
+        <div class="section-title">EDUCATION</div>
+        <p><strong>Cairo University</strong> – Cairo, Egypt <br>
+        Bachelor’s of Engineering <br>
+        Major in Civil Engineering: Minor in Construction Engineering & Management (CEM) <br>
+        Cumulative Degree: 87.02% (Distinction with honors) <br>
+        Sep 2018 – May 2023</p>
+
+        <p><strong>Project Management (PRMG), The American University in Cairo (AUC)</strong><br>
+        - Projects Bids and Contracts (PRMG 080) - Jul 2024 – Aug 2024 <br>
+        - Project Planning and Control Techniques (PRMG 010) - Sep 2024 – Present <br>
+        - Project Budgeting and Financial Control (PRMG 030) - Sep 2024 – Present</p>
+    </section>
+
+    <section>
+        <div class="section-title">OBJECTIVE</div>
+        <p>Recent graduate with a bachelor’s degree in engineering, specializing in Project Management and Controlling. Seeking an entry-level position where I can apply my academic knowledge, technical proficiency, and strong organizational skills to support project planning, execution, and monitoring.</p>
+    </section>
+
+    <section>
+        <div class="section-title">GRADUATION PROJECT</div>
+        <p><strong>Construction Engineering & Management: (THREE SIXTY BUSINESS AND LEISURE PARK)</strong><br>
+        <strong>Grade:</strong> Distinction</p>
+        
+        <p><strong>Outcomes of Graduation Project:</strong></p>
+        <ul>
+            <li>Developed optimized project plans through efficient Work Breakdown Structures (WBS) and resource allocation, enhancing project efficiency.</li>
+            <li>Conducted thorough Contract risk analysis, developed detailed Method statements, and devised efficient Site layout planning to ensure project success.</li>
+            <li>Ensured cost-effective project management through precise Quantity take-off and cost estimations, leading to accurate budgeting, cost control, project costing, and cash flow analysis.</li>
+            <li>Maximized project success by applying advanced decision-making techniques and study of alternatives, through risk analysis, and innovative problem-solving.</li>
+            <li>Demonstrated commitment to quality, safety, and sustainability through comprehensive planning, resource management, adherence to industry standards, as well as the implementation of LEED assessment, safety plans, and quality plans for the project.</li>
+            <li>The team utilized advanced techniques including Computer simulation of 5D construction model using Navisworks and Scheduling using Primavera to optimize project scheduling and resource management.</li>
+        </ul>
+    </section>
+
+    <section>
+        <div class="section-title">INTERNSHIPS</div>
+
+        <p><strong>Dar Al-Handasah (Cairo)</strong> – Central Business District <br>
+        Jul 2022 – Aug 2022</p>
+        <ul>
+            <li>Engaged in site supervision activities, gaining valuable hands-on experience in overseeing construction operations and ensuring compliance with project plans and specifications.</li>
+            <li>Assisted with general view for works progress on site, providing support in monitoring and reporting project progress to stakeholders, enhancing communication and project transparency.</li>
+            <li>General view for basic project management & contracts activities, including quantity take-off, cost estimates, time scheduling, and preparing contract documents.</li>
+        </ul>
+
+        <p><strong>Land Mark Subbour Construction (Cairo)</strong> – One Ninety project <br>
+        Sep 2021 – Sep 2021</p>
+        <ul>
+            <li>Reviewing the design of concrete elements and following up on technical office work and quantity take-off.</li>
+            <li>Supervising submission of formwork and steel-fixing for various structural elements, as well as monitoring concrete pouring for these elements.</li>
+        </ul>
+
+        <p><strong>National Authorities of Tunnels (Cairo)</strong> – Pyramids Station <br>
+        Aug 2021 – Aug 2021</p>
+        <ul>
+            <li>Monitoring excavation works & pouring reinforced concrete for Diaphragm wall.</li>
+        </ul>
+
+        <p><strong>Al-Nasr General Contracting Company “Hassan Allam” (Cairo)</strong> – Degla Bridge <br>
+        Sep 2020 – Sep 2020</p>
+        <ul>
+            <li>Engaged in site supervision activities, gaining valuable hands-on experience in overseeing construction operations for bridges' piles.</li>
+            <li>Monitoring excavation works & pouring reinforced concrete for bridges' piles.</li>
+        </ul>
+    </section>
+
+    <section>
+        <div class="section-title">SKILLS</div>
+        <ul>
+            <li>Understanding of Construction Processes: Knowledge of construction methods, materials, and processes is essential.</li>
+            <li>Planning and Scheduling: Ability to develop and manage project schedules using software like Primavera P6 or Microsoft Project.</li>
+            <li>Attention to Detail: Being detail-oriented is crucial for creating accurate project plans and identifying potential issues early.</li>
+            <li>Problem-Solving Skills: Ability to analyze problems and develop solutions quickly and efficiently.</li>
+            <li>Communication Skills: Effective communication with team members, clients, and stakeholders is important for conveying project plans and status updates.</li>
+            <li>Time Management: Efficiently manage time and prioritize tasks to meet project deadlines.</li>
+            <li>Technical Proficiency: Proficiency in using software and tools relevant to the field, such as CAD software, Primavera software, and Microsoft Office Suite.</li>
+            <li>Adaptability: Ability to adapt to changing project requirements and priorities.</li>
+        </ul>
+    </section>
+
+    <section>
+        <div class="section-title">PERSONAL INFORMATION</div>
+        <p><strong>Date of Birth:</strong> 7/3/2000 <br>
+        <strong>Gender:</strong> Male <br>
+        <strong>Nationality:</strong> Egyptian <br>
+        <strong>Languages:</strong> Arabic “Native Speaker”, English “Excellent” <br>
+        <strong>Military Status:</strong> Finished</p>
+    </section>
+</body>
+</html>
